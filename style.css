@@ -563,6 +563,14 @@ body{
     .cash{
         font-size: 1.3em;
     }
+    .navbar-bottom{
+        width: 100%;
+        height: 5vh;
+    }
+    .history-payment .first-item .title{
+        width: 80px;
+
+    }
 }
 @media only screen and (max-width: 576px){
     .bank-offcanvas{
