@@ -263,7 +263,7 @@ body{
     }
     .navbar-bottom{
         width: 100%;
-        height: 10vh;
+        height: 7vh;
         padding: 5px;
         position: fixed;
         z-index: 100;
@@ -610,5 +610,9 @@ body{
     }
     .cash{
         font-size: 1em;
+    }
+        .history-payment .first-item .title{
+        width: 80px;
+
     }
 }
