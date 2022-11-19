@@ -7,6 +7,9 @@ function removeLoader(){
     $( ".loader" ).fadeOut(500, function() {
     $( ".loader" ).remove(); 
   });   
+   $('.homepage').fadeIn();
+   $('.morepage').fadeIn();
+   $('.settingpage').fadeIn();
 }
 
 
