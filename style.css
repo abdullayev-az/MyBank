@@ -132,6 +132,7 @@ body{
         top: 0;
         left: 0;
         z-index: 10;
+        display: none;
     }
     .bank-menu{
         width: 100%;
@@ -495,6 +496,7 @@ body{
     /* ? Morepage------------------------------*/
     .morepage{
        position: relative;
+        display: none;
     }
     .morepage::after{
         content: '';
